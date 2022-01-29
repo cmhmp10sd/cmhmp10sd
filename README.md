@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on bettering the lives of people.
 - 📫 How to reach me chris.m.j.hoffman@gmail.com
 
+Invoke this with `java -splash:Flora.gif Splash`
+
 <!---
 cmhmp10sd/cmhmp10sd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
